@@ -1,4 +1,4 @@
-/*substring 與 hashmap 的用法，*/
+/* 1.substring 與 hashmap 的用法*/
 class Solution {
     public int romanToInt(String s) {
         Map<String, Integer> map = new HashMap<>();
